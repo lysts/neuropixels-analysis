@@ -1,2 +1,2 @@
-# neuropixels-analysis
-sample code from my neuroscience project analysing cortical and hippocampal formation activity
+# neuropixels analysis
+sample code I used in organising, visualising, and analysing primary visual cortex and hippocampal activity.
